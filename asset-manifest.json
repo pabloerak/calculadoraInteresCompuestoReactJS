@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calculadoraInteresCompuestoReactJS/static/css/main.e18a618d.chunk.css",
+    "main.js": "/calculadoraInteresCompuestoReactJS/static/js/main.6130df5e.chunk.js",
+    "main.js.map": "/calculadoraInteresCompuestoReactJS/static/js/main.6130df5e.chunk.js.map",
+    "runtime-main.js": "/calculadoraInteresCompuestoReactJS/static/js/runtime-main.7ee39b40.js",
+    "runtime-main.js.map": "/calculadoraInteresCompuestoReactJS/static/js/runtime-main.7ee39b40.js.map",
+    "static/js/2.24c24635.chunk.js": "/calculadoraInteresCompuestoReactJS/static/js/2.24c24635.chunk.js",
+    "static/js/2.24c24635.chunk.js.map": "/calculadoraInteresCompuestoReactJS/static/js/2.24c24635.chunk.js.map",
+    "static/js/3.d6b9d652.chunk.js": "/calculadoraInteresCompuestoReactJS/static/js/3.d6b9d652.chunk.js",
+    "static/js/3.d6b9d652.chunk.js.map": "/calculadoraInteresCompuestoReactJS/static/js/3.d6b9d652.chunk.js.map",
+    "index.html": "/calculadoraInteresCompuestoReactJS/index.html",
+    "static/css/main.e18a618d.chunk.css.map": "/calculadoraInteresCompuestoReactJS/static/css/main.e18a618d.chunk.css.map",
+    "static/js/2.24c24635.chunk.js.LICENSE.txt": "/calculadoraInteresCompuestoReactJS/static/js/2.24c24635.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ee39b40.js",
+    "static/js/2.24c24635.chunk.js",
+    "static/css/main.e18a618d.chunk.css",
+    "static/js/main.6130df5e.chunk.js"
+  ]
+}
